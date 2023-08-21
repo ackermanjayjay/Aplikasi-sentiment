@@ -1,0 +1,11 @@
+def pelabelan(rating):
+  if rating=="5":
+    return "positif"
+  if rating=="4":
+    return "positif"
+  if rating=="3":
+    return "netral"
+  if rating=="2":
+    return "negatif"
+  if rating=="1":
+    return "negatif"
